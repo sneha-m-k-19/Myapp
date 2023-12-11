@@ -1,0 +1,18 @@
+.todo{
+    background-color:blueviolet;
+    height:150vh;
+}
+.box{
+    background-color: whitesmoke;
+    height: 500px;
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: rgba(50,50,93,0.25)0px 50px 100px -20px, rgba(0,0,0.3) 0px 30px 60px -30px,rgba(10,37,64,0.35);
+}
+.addinput{
+    border-radius: 5px;
+}
+
+h1{
+    color: white;
+}
